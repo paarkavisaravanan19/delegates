@@ -6,6 +6,7 @@
     }
         internal class Program
     {
+
         static void Main(string[] args)
         {
             demo.delegate_for_addition d1 = addition;
